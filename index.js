@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from 'inquirer';
 //Bank Account class
 class BankAccount {
